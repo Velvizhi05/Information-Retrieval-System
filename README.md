@@ -71,7 +71,7 @@ streamlit run app.py
 
 🖼️ Demo Screenshot
 
-![App Screenshot]("src/output.png") 
+![src/output.png]("src/output.png") 
 
 📌 Roadmap
 
