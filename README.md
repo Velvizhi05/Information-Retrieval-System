@@ -46,21 +46,20 @@ git clone https://github.com/Velvizhi05/Information-Retrieval-System.git
 cd Information-Retrieval-System
 
 ### 2. Create and activate virtual environment
-```bash
 python -m venv genai_env
 source genai_env/bin/activate      # Linux / Mac
 genai_env\Scripts\activate         # Windows
 
 ### 3. Install dependencies
-```bash
+
 pip install -r requirements.txt
 
 ### 4. Add your API Key
-```bash
+```
 Create a .env file in the root directory and add:
 SAMBANOVA_API_KEY=your_api_key_here
 ### 5. Run the app
-```bash
+
 streamlit run app.py
 
 🎯 Usage
@@ -72,7 +71,7 @@ streamlit run app.py
 
 🖼️ Demo Screenshot
 
-![App Screenshot](docs/screenshot.png)<img width="1904" height="874" alt="Screenshot 2025-09-11 193214" src="https://github.com/user-attachments/assets/4fcef650-9bcb-49ac-901d-b32da8531500" />
+![App Screenshot]("C:\Users\velvizhi-pc\OneDrive\Pictures\Screenshots\Screenshot 2025-09-11 193214.png") 
 
 📌 Roadmap
 
