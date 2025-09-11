@@ -71,7 +71,7 @@ streamlit run app.py
 
 🖼️ Demo Screenshot
 
-![App Screenshot]("C:\Users\velvizhi-pc\OneDrive\Pictures\Screenshots\Screenshot 2025-09-11 193214.png") 
+![App Screenshot]("src/output.png") 
 
 📌 Roadmap
 
