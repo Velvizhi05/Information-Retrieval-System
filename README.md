@@ -44,49 +44,51 @@ Information-Retrieval-System/
 ```bash
 git clone https://github.com/Velvizhi05/Information-Retrieval-System.git
 cd Information-Retrieval-System
-
+```
 ### 2. Create and activate virtual environment
+```
 python -m venv genai_env
 source genai_env/bin/activate      # Linux / Mac
 genai_env\Scripts\activate         # Windows
-
+```
 ### 3. Install dependencies
-
+```
 pip install -r requirements.txt
-
+```
 ### 4. Add your API Key
 ```
 Create a .env file in the root directory and add:
 SAMBANOVA_API_KEY=your_api_key_here
+```
 ### 5. Run the app
-
+```
 streamlit run app.py
-
+```
 🎯 Usage
-
+```
 1.Upload one or more PDF files from the sidebar.
 2.Click Submit & Process to generate embeddings.
 3.Ask natural language questions in the text input field.
 4.View the interactive conversation history between you and the bot.
-
+```
 🖼️ Demo Screenshot
-
-![src/output.png]("src/output.png") 
-
+```
+![]("src/output.png") 
+```
 📌 Roadmap
-
+```
  Add live streaming answers in UI
 
  Support for multiple LLM providers
 
  Advanced PDF parsing (tables, images)
-
+```
 🤝 Contributing
-
+```
 Pull requests are welcome! For major changes, please open an issue first to discuss.
-
+```
 📜 License
-
+```
 This project is licensed under the MIT License.
 
 Do you also want me to generate a **`requirements.txt`** (with exact versions of Streamlit, LangChain, FAISS, etc.) so anyone who clones your repo can run it without dependency conflicts?
