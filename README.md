@@ -72,9 +72,9 @@ streamlit run app.py
 4.View the interactive conversation history between you and the bot.
 ```
 🖼️ Demo Screenshot
-```
-![App Screenshot]("[src/output.pn](https://github.com/Velvizhi05/Information-Retrieval-System/blob/main/src/output.png)g") 
-```
+
+[App Screenshot]("[src/output.pn](https://github.com/Velvizhi05/Information-Retrieval-System/blob/main/src/output.png)g") 
+
 📌 Roadmap
 ```
  Add live streaming answers in UI
