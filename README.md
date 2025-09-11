@@ -73,7 +73,7 @@ streamlit run app.py
 ```
 🖼️ Demo Screenshot
 
-[App Screenshot]("[src/output.pn](https://github.com/Velvizhi05/Information-Retrieval-System/blob/main/src/output.png)g") 
+![App Screenshot](https://github.com/Velvizhi05/Information-Retrieval-System/blob/main/src/output.png)
 
 📌 Roadmap
 ```
